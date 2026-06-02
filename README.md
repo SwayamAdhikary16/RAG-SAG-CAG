@@ -2,6 +2,7 @@
 
 This project demonstrates **Retrieval-Augmented Generation (RAG)**, **Self-Augmented Generation (SAG)**, and **Context-Augmented Generation (CAG)** on a library of PDFs using **ChromaDB**, **SentenceTransformers embeddings**, and **Gemini / LLM** for generation.
 
+![RAG Architecture Comparison](img.png)
 ---
 
 ## **Overview**
